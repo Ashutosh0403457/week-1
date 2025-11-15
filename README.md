@@ -66,3 +66,36 @@ Key Learnings:
 Learned cluster validation and interpretability techniques.
 
 Gained insights into sustainable versus high-impact foods.
+
+🧠 Week 3 – Carbon Footprint Prediction using Regression
+
+Objective:
+To build predictive models that estimate the carbon footprint of foods based on their nutritional components.
+
+Work Done:
+
+Defined independent features (nutrients) and target variable (carbon footprint).
+
+Split data into training and testing sets.
+
+Trained two regression models:
+
+Linear Regression
+
+Random Forest Regressor
+
+Evaluated models using MAE, RMSE, and R² score.
+
+Random Forest performed best with higher accuracy.
+
+Analyzed feature importance to determine which nutrients most influence carbon emissions.
+
+Saved prediction results (Week3_Carbon_Footprint_Predictions.csv).
+
+Key Learnings:
+
+Learned to build and compare regression models.
+
+Understood how individual nutrients affect sustainability.
+
+Random Forest proved more reliable for prediction tasks.
